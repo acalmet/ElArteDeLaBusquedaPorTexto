@@ -1,0 +1,2 @@
+# ElArteDeLaBusquedaPorTexto
+En esta investigación, nos enfocamos en comparar ciertos algoritmos de búsqueda por texto (String matching). Precisamente, nos adentramos en sus distintas aplicaciones, basándonos en estudios de investigadores que analizan cada uno de los tipos y determinan cual es el más eficiente. De aquí, se buscará demostrar que cierto algoritmo propuesto es el más eficiente mediante un experimento que permita comparar los tiempos de cada uno de estos algoritmos de búsqueda por texto.
